@@ -2,7 +2,7 @@
 
 Basic data analysis of a production line. 
 
-**Tech Stack**: Python, Pandas, Seaborn, Mathplotlib
+**Tech Stack**: Python (Pandas, Seaborn, Mathplotlib)
 
 ## Dataset
 Dataset is from Kaggle
